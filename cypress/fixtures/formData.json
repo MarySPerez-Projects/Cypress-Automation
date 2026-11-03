@@ -1,0 +1,12 @@
+{
+  "nombre": "Mary Sofía Pérez",
+  "email": "marysofia@test.com",
+  "comentarios": "Esta es una prueba automatizada con Cypress y Cucumber.",
+  "pais": "Argentina",
+  "genero": "Femenino",
+  "interes": "Desarrollo",
+  "interes2": "Testing",
+  "experiencia": "5",
+  "fechaNacimiento": "2003-06-04",
+  "color": "#5a49a6"
+}
