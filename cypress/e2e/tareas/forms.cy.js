@@ -4,8 +4,8 @@ describe('Formulario con Buenas Prácticas', () => {
     beforeEach(() => {
         cy.fixture('formData').then((data) => {
             testData = data;
+            cy.visit('/forms');
         });
-        cy.visit('https://cypress-playground.vercel.app/forms');
     });
 
     it('completar formulario exitosamente usando datos del fixture', () => {
